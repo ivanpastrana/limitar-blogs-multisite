@@ -1,9 +1,9 @@
 === Limitar Creación de Blogs en Multisite ===
-Contributors: Ivan Pastrana  
+Contributors: ivanpl 
 Tags: multisite, limitar blogs, administración  
 Requires at least: 5.2  
 Tested up to: 6.4  
-Stable tag: 1.1  
+Stable tag: 1.2  
 License: GPL2  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html  
 
